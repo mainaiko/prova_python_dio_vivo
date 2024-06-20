@@ -1,2 +1,2 @@
-# prova_python_dio_vivo
-projetos entregues para passar de fase
+# trabalhando com tudo que aprendi
+    utilizando o aprendizado ate agora
